@@ -18,7 +18,7 @@ bash installnode.sh
 apt install python3.10-venv
 ```
 ```
-python3 -m venv ubot && source ubot/bin/activate
+python3 -m venv Uboot && source Uboot/bin/activate
 ```
 ```
 pip3 install -r requirements.txt
@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 cp sample.env .env && nano .env
 ```
 ```
-screen -S ubot
+screen -S Uboot
 ```
 ```
 python3 -m PyroUbot
