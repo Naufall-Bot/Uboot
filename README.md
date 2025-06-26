@@ -6,7 +6,7 @@ apt update && apt upgrade -y
 git clone https://github.com/Naufall-Bot/Uboot
 ```
 ```
-cd ubot && screen -S ubot
+cd Uboot && screen -S Uboot
 ```
 ```
 apt install ffmpeg -y
